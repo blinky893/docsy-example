@@ -1,6 +1,6 @@
 ---
 date: 2018-10-06
-title: "First post (EN)"
+title: "First post (ES)"
 linkTitle: "First post"
 description: "This is a blog post with theme announcements"
 author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))

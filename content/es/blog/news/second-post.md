@@ -1,5 +1,5 @@
 ---
-title: "Second post (EN)"
+title: "Second post (ES)"
 linkTitle: "Second post"
 date: 2018-10-06
 description: >
