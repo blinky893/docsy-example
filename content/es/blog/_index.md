@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "Platform Blog (ES)"
 linkTitle: "Blog"
 weight: 20
 menu:

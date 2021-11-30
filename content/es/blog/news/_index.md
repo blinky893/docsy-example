@@ -1,5 +1,5 @@
 ---
-title: "News About Docsy"
+title: "News About The Platform (ES)"
 linkTitle: "News"
 weight: 20
 ---
