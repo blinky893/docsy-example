@@ -4,6 +4,7 @@ linkTitle: "Admin (ES)"
 menu:
    main:
       weight: 3
+weight: 3
 description: >
   This is the Admin section
 ---

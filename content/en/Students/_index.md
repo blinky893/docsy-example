@@ -4,6 +4,7 @@ linkTitle: "Students"
 menu:
    main:
       weight: 1
+weight: 1
 description: >
   This is the Students section
 ---

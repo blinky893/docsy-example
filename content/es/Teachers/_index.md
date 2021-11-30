@@ -4,6 +4,7 @@ linkTitle: "Teachers (ES)"
 menu:
    main:
       weight: 2
+weight: 2
 description: >
   This is the Teacher section
 ---
