@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation (ES)"
+title: "Ayuda y apoyo (ES)"
 linkTitle: "Documentation (ES)"
 type: "docs"
 tags: ["intro"]

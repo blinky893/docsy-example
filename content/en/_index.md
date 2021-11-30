@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation"
+title: "Help & Support"
 linkTitle: "Documentation"
 type: "docs"
 tags: ["intro"]
