@@ -1,7 +1,7 @@
 
 ---
 title: "Help & Support"
-linkTitle: "Documentation"
+linkTitle: "Contents"
 type: "docs"
 tags: ["intro"]
 weight: 20
