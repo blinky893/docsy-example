@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Simplify"
+title = "HelpForAll"
 
 enableRobotsTXT = true
 
@@ -70,15 +70,15 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "HelpForAll"
+description = "A Sample Help Site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 
 [languages.es]
-title = "Goldydocs (ES)"
-description = "A Docsy example site (ES)"
+title = "AyudaParaTodos(ES)"
+description = "Un ejemplo de sitio de ayuda (ES)"
 languageName ="Espanol"
 contentDir = "content/es"
 # Weight used for sorting.
