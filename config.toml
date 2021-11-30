@@ -70,26 +70,19 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Simplify"
+title = "Goldydocs"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Simplify"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
 
-[languages.fa]
-title = "ساده کردن"
-description = "یک نمونه برای پوسته داکسی"
-languageName ="فارسی"
-contentDir = "content/fa"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
+[languages.es]
+title = "Goldydocs (ES)"
+description = "A Docsy example site (ES)"
+languageName ="Espanol"
+contentDir = "content/es"
+# Weight used for sorting.
+weight = 2
 
 [markup]
   [markup.goldmark]
@@ -167,7 +160,7 @@ navbar_logo = true
 # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
 navbar_translucent_over_cover_disable = false
 # Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = false
+sidebar_menu_compact = true
 # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
 sidebar_search_disable = false
 
