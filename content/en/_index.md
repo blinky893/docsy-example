@@ -3,7 +3,6 @@
 title: "Help & Support"
 linkTitle: "Home"
 type: "docs"
-tags: ["intro"]
 weight: 20
 
 cascade:
