@@ -1,7 +1,7 @@
 
 ---
 title: "Ayuda y apoyo (ES)"
-linkTitle: "Contenido (ES)"
+linkTitle: "Inicio (ES)"
 type: "docs"
 tags: ["intro"]
 weight: 20
