@@ -26,13 +26,13 @@ category = "categories"
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["tags", "categories"] 
+taxonomyCloud = [] 
 
 # If used, must have same lang as taxonomyCloud
-taxonomyCloudTitle = ["Tag Cloud", "Categories"] 
+taxonomyCloudTitle = [] 
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["tags", "categories"] 
+taxonomyPageHeader = [] 
 
 
 # Highlighting config
@@ -70,14 +70,14 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "HelpForAll"
+title = "Example.com"
 description = "A Sample Help Site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 
 [languages.es]
-title = "AyudaParaTodos(ES)"
+title = "Example.com (ES)"
 description = "Un ejemplo de sitio de ayuda (ES)"
 languageName ="Espanol"
 contentDir = "content/es"
