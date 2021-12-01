@@ -3,8 +3,7 @@
 title: "Ayuda y apoyo (ES)"
 linkTitle: "Inicio (ES)"
 type: "docs"
-tags: ["intro"]
-weight: 20
+git aweight: 20
 
 cascade:
 - _target:
