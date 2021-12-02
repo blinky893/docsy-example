@@ -32,8 +32,16 @@ This is a placeholder page that shows you how to use this template site.
 
 {{< cardpane >}}
   {{< card header="Header card 1" >}}
-    ![fa-user](\static\images\user-solid.svg)
+![fa-user](/static/images/user-solid.svg)
   {{< /card >}}
+
+{{< cardpane >}}
+{{< card header="**George Washington**" title="\*1732 &nbsp;&nbsp;&nbsp; †1799" subtitle="**President:** 1789 – 1797" footer="![SignatureGeorgeWashington](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/George_Washington_signature.svg/320px-George_Washington_signature.svg.png \"Signature George Washington\")">}}
+![PortraitGeorgeWashington](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/633px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg "Portrait George Washington")
+{{< /card >}}
+
+
+
   {{< card header="Header card 2" >}}
     Content card 2
   {{< /card >}}
