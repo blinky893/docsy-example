@@ -32,7 +32,7 @@ This is a placeholder page that shows you how to use this template site.
 
 {{< cardpane >}}
   {{< card header="Header card 1" >}}
-![fa-user](/static/images/user-solid.svg)
+![usericon](/static/images/user.jpg)
   {{< /card >}}
 
 {{< cardpane >}}
