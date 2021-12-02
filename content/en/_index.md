@@ -32,7 +32,7 @@ This is a placeholder page that shows you how to use this template site.
 
 {{< cardpane >}}
   {{< card header="Header card 1" >}}
-    Content card 1
+    <i class="fa fa-user-friends"></i>
   {{< /card >}}
   {{< card header="Header card 2" >}}
     Content card 2
