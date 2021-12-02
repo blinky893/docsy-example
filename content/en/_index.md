@@ -32,7 +32,7 @@ This is a placeholder page that shows you how to use this template site.
 
 {{< cardpane >}}
   {{< card header="Header card 1" >}}
-    <i class="fa fa-user-friends"></i>
+    ![fa-user](/static/images/user-solid.svg)
   {{< /card >}}
   {{< card header="Header card 2" >}}
     Content card 2
@@ -42,6 +42,7 @@ This is a placeholder page that shows you how to use this template site.
   {{< /card >}}
 {{< /cardpane >}}
 
+Icons (c) [Fontawesome](https://fontawesome.com/license)
 
 This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
 
