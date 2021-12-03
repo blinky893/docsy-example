@@ -1,13 +1,13 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Blog"
-weight: 20
+title: "Ask an expert"
+linkTitle: "Ask an expert"
+weight: 4
 menu:
   main:
-    weight: 10
+    weight: 4
 ---
 
-This is the **blog** section. It has two categories: News and Releases.
+This is the **Ask an expert** section. It has two categories: Questions and News.
 
 Files in these directories will be listed in reverse chronological order.
 

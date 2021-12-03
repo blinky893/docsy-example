@@ -1,7 +1,7 @@
 ---
-title: "Teacher Article 3"
-linkTitle: "Article 3"
-weight: 3
+title: "Guide 2"
+linkTitle: "Guide  2"
+weight: 2
 description: >
   A quick summary of the article contents.
 ---

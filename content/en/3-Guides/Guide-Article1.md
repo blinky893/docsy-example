@@ -1,7 +1,7 @@
 ---
-title: "Admin Article 2"
-linkTitle: "Article 2"
-weight: 2
+title: "Guide 1"
+linkTitle: "Guide 1"
+weight: 1
 description: >
   A quick summary of the article contents.
 ---

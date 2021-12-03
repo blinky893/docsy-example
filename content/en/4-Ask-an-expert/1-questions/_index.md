@@ -1,10 +1,19 @@
 ---
-title: "Second post (EN)"
-linkTitle: "Second post"
-date: 2018-10-06
-description: >
-  A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
+title: "Questions (EN)"
+linkTitle: "Questions"
+weight: 1
 ---
+
+
+## Question 1
+>  How do I do this thing I want to do?
+
+### Answer 
+Like this! It's really easy. You just do this thing!
+
+---
+
+## Other formats available:
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
@@ -242,3 +251,4 @@ Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta ch
 ```
 This is the final element on the page and there should be no margin below this.
 ```
+
