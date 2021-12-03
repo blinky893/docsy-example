@@ -1,6 +1,6 @@
 ---
-title: "Admin Article 3"
-linkTitle: "Article 3"
+title: "Tutorial 3"
+linkTitle: "Tutorial 3"
 weight: 3
 description: >
   A quick summary of the article contents.
