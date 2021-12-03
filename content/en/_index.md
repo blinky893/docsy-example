@@ -34,7 +34,7 @@ This is a placeholder page that shows you how to use this template site.
   
   {{< card header="Header card 1" >}}
     Content card 1
-![student](/user.jpg)
+![student](/images/user.jpg)
   {{< /card >}}
   
   {{< card header="Header card 2" >}}
