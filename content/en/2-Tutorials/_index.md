@@ -1,17 +1,17 @@
 ---
-title: "Teachers"
-linkTitle: "Teachers"
+title: "Tutorials"
+linkTitle: "Tutorials"
 menu:
    main:
       weight: 2
 weight: 2
 description: >
-  This is the Teacher section
+  This is the Tutorials section
 ---
 
 {{% pageinfo %}}
-This is the index page of the Teacher section.
+This is the index page of the Tutorials section.
 {{% /pageinfo %}}
 
 
-# Topics for Teachers
+# In this section

@@ -10,7 +10,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is the index page of the Admin section.
+This is the index page of the Contact Us section.
 {{% /pageinfo %}}
 
 

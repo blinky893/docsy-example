@@ -1,17 +1,19 @@
 ---
-title: "Students"
-linkTitle: "Students"
+title: "Your first visit"
+linkTitle: "Your first visit"
 menu:
    main:
       weight: 1
 weight: 1
 description: >
-  This is the Students section
+  Find out what's inside the application.
 ---
 
 {{% pageinfo %}}
-This is the index page of the Students section.
+This is the index page of the 'Your first visit' section.
 {{% /pageinfo %}}
 
 
-# Topics for Students
+# Take a quick tour
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZOGlxFER_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

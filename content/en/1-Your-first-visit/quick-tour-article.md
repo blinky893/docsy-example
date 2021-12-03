@@ -1,9 +1,9 @@
 ---
-title: "Teacher Article 1"
-linkTitle: "Article 1"
+title: "Quick tour"
+linkTitle: "Quick tour"
 weight: 1
 description: >
-  A quick summary of the article contents.
+  A quick tour of the interface.
 ---
 
 {{% pageinfo %}}

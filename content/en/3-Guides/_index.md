@@ -1,17 +1,17 @@
 ---
-title: "Admin"
-linkTitle: "Admin"
+title: "Guides"
+linkTitle: "Guides"
 menu:
    main:
       weight: 3
 weight: 3
 description: >
-  This is the Admin section
+  This is the Guides section
 ---
 
 {{% pageinfo %}}
-This is the index page of the Admin section.
+This is the index page of the Guides section.
 {{% /pageinfo %}}
 
 
-# Topics for Admins
+# In this section
