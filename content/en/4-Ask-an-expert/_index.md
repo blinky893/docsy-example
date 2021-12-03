@@ -1,6 +1,6 @@
 ---
-title: "Contact us"
-linkTitle: "Contact us"
+title: "Ask an expert"
+linkTitle: "Ask an expert"
 weight: 4
 menu:
   main:

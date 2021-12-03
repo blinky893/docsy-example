@@ -1,6 +1,6 @@
 ---
 date: 2018-10-06
-title: "Announcement #1"
+title: "Announcement #1 (EN)"
 linkTitle: "Announcement #1"
 description: "This is a blog post with theme announcements"
 author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
