@@ -37,15 +37,15 @@ A placeholder image will go here
   {{< /card >}}
   
   {{< card header="Tutorials" >}}
-    A placeholder image will go here
+A placeholder image will go here
   {{< /card >}}
   
   {{< card header="Guides" >}}
-    A placeholder image will go here
+A placeholder image will go here
   {{< /card >}}
 
   {{< card header="Ask an expert" >}}
-    A placeholder image will go here
+A placeholder image will go here
   {{< /card >}}
 
 {{< /cardpane >}}
